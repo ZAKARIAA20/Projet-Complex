@@ -1,0 +1,9 @@
+﻿  Complex.cpp
+C:\Users\zeko_\OneDrive\Bureau\learning C++\projetComplex\projetComplex\Complex.cpp(119,10): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\zeko_\OneDrive\Bureau\learning C++\projetComplex\projetComplex\Complex.cpp(120,9): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\zeko_\OneDrive\Bureau\learning C++\projetComplex\projetComplex\Complex.cpp(131,10): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\zeko_\OneDrive\Bureau\learning C++\projetComplex\projetComplex\Complex.cpp(132,10): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  projetComplex.cpp
+C:\Users\zeko_\OneDrive\Bureau\learning C++\projetComplex\projetComplex\projetComplex.cpp(2,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  Génération de code en cours...
+  projetComplex.vcxproj -> C:\Users\zeko_\OneDrive\Bureau\learning C++\projetComplex\x64\Debug\projetComplex.exe
